@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nombre": "Eduardo Alejandro",
+      "apellidos": "Canche Sanchez",
+      "email": "canchesanchez1@gmail.com",
+      "password": "123456",
+      "creditos complementarios": "true",
+      "servicio social": "true",
+      "minimo de creditos": "true"
+    },
+    {
+      "id": 2,
+      "nombre": "Zalman",
+      "apellidos": "Williams",
+      "email": "L18390803@chetumal.tecnm.mx",
+      "password": "123456",
+      "creditos complementarios": "true",
+      "servicio social": "true",
+      "minimo de creditos": "true"
+    },
+    {
+      "email": "canchesanchez1@gmail.com",
+      "password": "123456",
+      "nombre": "Eduardo Alejandro",
+      "apellidos": "Canche Sanchez",
+      "id": 3
+    }
+  ],
+  "residencia": [
+    {
+      "id": 1,
+      "titulo": "Auxiliar administrativo",
+      "area": "subdireccion academica",
+      "descripcion": "servicio en la subdireccion academica como ayudante del area",
+      "userId": 1
+    }
+  ]
+}
